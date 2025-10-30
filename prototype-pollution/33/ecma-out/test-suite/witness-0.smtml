@@ -1,0 +1,12 @@
+(let-const x1 str); (let-const x0 str)
+(assert (bool.eq x0 "toString")); (assert (bool.eq x1 "__proto__"));
+(assert (bool.and
+         (bool.and
+          (bool.and
+           (bool.and
+            (bool.and
+             (bool.and (bool.ne x1 "toString") (bool.ne x1 "hasOwnProperty"))
+             (bool.ne x1 "constructor")) (bool.ne x1 "isPrototypeOf"))
+           (bool.ne x1 "propertyIsEnumerable"))
+          (bool.ne x1 "toLocaleString")) (bool.ne x1 "valueOf")))
+(check-sat)

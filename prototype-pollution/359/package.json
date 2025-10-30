@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "latest",
+    "debug": "latest",
+    "handlebars": "latest",
+    "lodash": "latest"
+  }
+}

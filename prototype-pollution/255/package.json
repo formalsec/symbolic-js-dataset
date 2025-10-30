@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gedi-paths": "latest",
+    "gel-js": "latest",
+    "spec-js": "latest"
+  }
+}

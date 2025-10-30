@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cluster": "latest",
+    "core-util-is": "latest",
+    "crypto": "latest",
+    "ms": "latest",
+    "net": "latest",
+    "uuid": "latest"
+  }
+}

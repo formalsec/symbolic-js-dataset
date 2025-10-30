@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "assign-symbols": "latest",
+    "is-primitive": "latest",
+    "kind-of": "latest"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "querystring": "latest",
+    "stream": "latest",
+    "zlib": "latest"
+  }
+}

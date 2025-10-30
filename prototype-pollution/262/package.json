@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "is-primitive": "latest",
+    "plain-object-clone": "latest"
+  }
+}
