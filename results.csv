@@ -1,0 +1,1209 @@
+test,time,result
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_2.js,0.7530100720032351,all ok
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_4.js,0.8372259110001323,all ok
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_3.js,0.7653056449998985,all ok
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_5.js,0.8396478579998075,all ok
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_1.js,0.7587867289985297,all ok
+./prototype-pollution/style-dictionary-2.10.2/symbolic_test_0.js,0.9455342080000264,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_2.js,0.8461559950010269,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_4.js,0.9187093319997075,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_3.js,0.8512989659975574,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_5.js,0.8485628650014405,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_1.js,0.8489237890025834,all ok
+./prototype-pollution/swiper-6.5.0/symbolic_test_0.js,0.8427188549976563,all ok
+./prototype-pollution/deep-set-1.0.0/symbolic_test_2.js,0.6856786099997407,all ok
+./prototype-pollution/deep-set-1.0.0/symbolic_test_4.js,30.01649370299856,nothing
+./prototype-pollution/deep-set-1.0.0/symbolic_test_3.js,17.55591725600243,polluted
+./prototype-pollution/deep-set-1.0.0/symbolic_test_5.js,30.015264148001734,nothing
+./prototype-pollution/deep-set-1.0.0/symbolic_test_1.js,0.6722567319993686,all ok
+./prototype-pollution/deep-set-1.0.0/symbolic_test_0.js,0.6672888829998556,all ok
+./prototype-pollution/dexie-3.2.1/symbolic_test_2.js,30.054972478999844,nothing
+./prototype-pollution/dexie-3.2.1/symbolic_test_4.js,30.054648649998853,nothing
+./prototype-pollution/dexie-3.2.1/symbolic_test_3.js,30.03499099200053,nothing
+./prototype-pollution/dexie-3.2.1/symbolic_test_5.js,30.033054963001632,nothing
+./prototype-pollution/dexie-3.2.1/symbolic_test_1.js,30.05443766499957,nothing
+./prototype-pollution/dexie-3.2.1/symbolic_test_0.js,30.05579405300159,nothing
+./prototype-pollution/object-path-0.11.4/symbolic_test_2.js,1.4091919279999274,all ok
+./prototype-pollution/object-path-0.11.4/symbolic_test_4.js,1.4189755719999084,all ok
+./prototype-pollution/object-path-0.11.4/symbolic_test_3.js,1.4466946979991917,all ok
+./prototype-pollution/object-path-0.11.4/symbolic_test_5.js,1.4437660540024808,all ok
+./prototype-pollution/object-path-0.11.4/symbolic_test_1.js,1.46349479300261,all ok
+./prototype-pollution/object-path-0.11.4/symbolic_test_0.js,1.457155222997244,all ok
+./prototype-pollution/deep-defaults-1.0.5/symbolic_test_2.js,0.9495447929984948,all ok
+./prototype-pollution/deep-defaults-1.0.5/symbolic_test_3.js,30.045483575002436,nothing
+./prototype-pollution/deep-defaults-1.0.5/symbolic_test_1.js,0.9867666970021673,all ok
+./prototype-pollution/deep-defaults-1.0.5/symbolic_test_0.js,0.9524785019966657,polluted
+./prototype-pollution/mithril-1.0.0/symbolic_test_2.js,1.2622587980004027,nothing
+./prototype-pollution/mithril-1.0.0/symbolic_test_4.js,1.2669825890006905,nothing
+./prototype-pollution/mithril-1.0.0/symbolic_test_3.js,1.271253507999063,nothing
+./prototype-pollution/mithril-1.0.0/symbolic_test_5.js,1.4173895069980063,nothing
+./prototype-pollution/mithril-1.0.0/symbolic_test_1.js,1.3072069529989676,nothing
+./prototype-pollution/mithril-1.0.0/symbolic_test_0.js,1.248605568001949,nothing
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_2.js,0.865622400000575,polluted
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_4.js,0.8146245049974823,all ok
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_3.js,0.7751978599990252,all ok
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_5.js,0.7856231410005421,all ok
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_1.js,0.8740653069980908,polluted
+./prototype-pollution/merge-objects-1.0.3/symbolic_test_0.js,0.6845639060011308,all ok
+./prototype-pollution/confucious-0.0.12/symbolic_test_2.js,1.0696569089996046,all ok
+./prototype-pollution/confucious-0.0.12/symbolic_test_4.js,7.755135007999343,polluted
+./prototype-pollution/confucious-0.0.12/symbolic_test_3.js,0.9450033530010842,nothing
+./prototype-pollution/confucious-0.0.12/symbolic_test_1.js,0.9334426360001089,all ok
+./prototype-pollution/confucious-0.0.12/symbolic_test_0.js,0.9370504250000522,all ok
+./prototype-pollution/js-extend-0.0.1/symbolic_test_2.js,0.8959736020005948,polluted
+./prototype-pollution/js-extend-0.0.1/symbolic_test_4.js,30.04581479099943,nothing
+./prototype-pollution/js-extend-0.0.1/symbolic_test_3.js,0.830491582997638,all ok
+./prototype-pollution/js-extend-0.0.1/symbolic_test_5.js,30.045742276000965,nothing
+./prototype-pollution/js-extend-0.0.1/symbolic_test_1.js,0.867101472998911,polluted
+./prototype-pollution/js-extend-0.0.1/symbolic_test_0.js,0.7102473519989871,all ok
+./prototype-pollution/vega-util-1.13.0/symbolic_test_2.js,1.9534568130002299,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_4.js,1.982078218999959,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_11.js,1.9657039400008216,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_9.js,1.9640209570025036,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_8.js,1.9514321749993542,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_12.js,1.9597903049980232,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_1.js,1.954804498996964,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_0.js,1.9488098500005435,nothing
+./prototype-pollution/vega-util-1.13.0/symbolic_test_7.js,1.9703167660009058,nothing
+./prototype-pollution/flat-5.0.0/symbolic_test_2.js,0.8666118199980701,all ok
+./prototype-pollution/flat-5.0.0/symbolic_test_4.js,30.01336640000227,nothing
+./prototype-pollution/flat-5.0.0/symbolic_test_3.js,30.014436239001952,nothing
+./prototype-pollution/flat-5.0.0/symbolic_test_1.js,0.8898386439977912,all ok
+./prototype-pollution/flat-5.0.0/symbolic_test_0.js,0.8651485529990168,all ok
+./prototype-pollution/merge-1.2.0/symbolic_test_2.js,1.0099682260006375,all ok
+./prototype-pollution/merge-1.2.0/symbolic_test_4.js,0.9059193680004682,nothing
+./prototype-pollution/merge-1.2.0/symbolic_test_1.js,1.0238326200014853,all ok
+./prototype-pollution/merge-1.2.0/symbolic_test_0.js,1.0195687940031348,all ok
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_2.js,0.7232626940021873,all ok
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_4.js,30.01341935399978,nothing
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_3.js,12.407475875999808,polluted
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_5.js,30.012298075998842,nothing
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_1.js,0.8522212009993382,all ok
+./prototype-pollution/madlib-object-utils-0.1.6/symbolic_test_0.js,0.7247658429987496,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_55.js,30.012067392999597,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_2.js,1.1767327189991192,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_47.js,26.681367207998846,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_4.js,28.115786799997295,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_46.js,1.3181157009967137,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_35.js,25.74645734799924,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_39.js,1.293759135001892,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_33.js,1.3071092819991463,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_11.js,30.01441420899937,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_50.js,30.019710853001015,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_9.js,1.3341291680007998,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_44.js,30.016189575999306,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_18.js,1.3481144069992297,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_8.js,30.016378067000915,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_38.js,30.012317757002165,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_52.js,1.3357984060021408,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_40.js,1.3081387890015321,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_25.js,30.01276893999966,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_21.js,1.3397307000013825,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_23.js,27.18787676300053,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_12.js,1.2880616879992886,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_31.js,30.020272362999094,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_15.js,1.3107187999994494,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_10.js,25.99628646199926,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_28.js,1.3160732700016524,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_56.js,30.013097749000735,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_54.js,30.013593502997537,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_3.js,1.2987351720003062,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_42.js,22.34349376099999,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_6.js,1.3077736209997965,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_22.js,1.3148358459984593,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_26.js,30.0130831619972,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_36.js,23.661892711999826,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_20.js,30.01347833299951,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_24.js,24.564514907997363,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_41.js,24.43191280999963,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_5.js,30.013753167000687,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_17.js,30.015650531000574,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_1.js,1.255126445001224,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_49.js,30.012566260000312,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_51.js,1.3976939890017093,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_0.js,1.2575241769991408,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_30.js,24.541479224000796,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_7.js,26.853801165998448,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_43.js,30.01398787400103,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_13.js,25.924900699999853,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_53.js,30.013824775000103,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_45.js,1.3853114260018629,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_34.js,1.4048187610023888,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_16.js,28.191682963999483,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_37.js,30.01436651500262,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_14.js,30.019975014998636,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_19.js,30.013696721001907,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_32.js,30.014119232000667,nothing
+./prototype-pollution/objection-2.0.0/symbolic_test_27.js,1.396316393998859,all ok
+./prototype-pollution/objection-2.0.0/symbolic_test_48.js,25.544048146999558,polluted
+./prototype-pollution/objection-2.0.0/symbolic_test_29.js,27.495687750000798,all ok
+./prototype-pollution/cached-path-relative-1.0.1/symbolic_test_2.js,0.8540215159991931,all ok
+./prototype-pollution/cached-path-relative-1.0.1/symbolic_test_3.js,11.14357097500033,all ok
+./prototype-pollution/cached-path-relative-1.0.1/symbolic_test_1.js,0.8519741489981243,all ok
+./prototype-pollution/cached-path-relative-1.0.1/symbolic_test_0.js,0.849551335999422,all ok
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_2.js,0.7195096340001328,all ok
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_4.js,0.7489994269999443,all ok
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_3.js,0.7328208420003648,all ok
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_5.js,30.01486832900264,nothing
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_1.js,0.7109804619976785,all ok
+./prototype-pollution/deep-setter-1.0.1/symbolic_test_0.js,0.7474189810018288,all ok
+./prototype-pollution/think-helper-1.1.0/symbolic_test_2.js,2.2196316809968266,nothing
+./prototype-pollution/think-helper-1.1.0/symbolic_test_4.js,2.2246673939989705,nothing
+./prototype-pollution/think-helper-1.1.0/symbolic_test_3.js,2.2395775900004082,nothing
+./prototype-pollution/think-helper-1.1.0/symbolic_test_5.js,2.2320537520026846,nothing
+./prototype-pollution/think-helper-1.1.0/symbolic_test_1.js,2.221480997999606,nothing
+./prototype-pollution/think-helper-1.1.0/symbolic_test_0.js,2.233870518000913,nothing
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_2.js,0.8137005589996988,all ok
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_4.js,0.8379953330004355,all ok
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_3.js,0.8178979049989721,all ok
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_5.js,0.8331685089979146,all ok
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_1.js,0.8115698559995508,all ok
+./prototype-pollution/expand-hash-1.0.1/symbolic_test_0.js,0.7828963249994558,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_2.js,0.6957250310006202,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_4.js,0.7198958120025054,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_3.js,0.6980065679999825,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_5.js,0.7116541540017352,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_1.js,0.7052250300002925,all ok
+./prototype-pollution/shvl-2.0.1/symbolic_test_0.js,0.7052100549990428,all ok
+./prototype-pollution/json-schema-0.3.0/symbolic_test_2.js,1.4360418430005666,all ok
+./prototype-pollution/json-schema-0.3.0/symbolic_test_4.js,2.1095748230000027,all ok
+./prototype-pollution/json-schema-0.3.0/symbolic_test_3.js,30.08774810899922,nothing
+./prototype-pollution/json-schema-0.3.0/symbolic_test_1.js,1.425916344000143,all ok
+./prototype-pollution/json-schema-0.3.0/symbolic_test_0.js,1.4296262860007118,all ok
+./prototype-pollution/ion-parser-0.5.2/symbolic_test_2.js,1.0305005079972034,all ok
+./prototype-pollution/ion-parser-0.5.2/symbolic_test_4.js,1.0224958190010511,all ok
+./prototype-pollution/ion-parser-0.5.2/symbolic_test_1.js,1.0287202040017291,all ok
+./prototype-pollution/ion-parser-0.5.2/symbolic_test_0.js,1.0200850770015677,all ok
+./prototype-pollution/json-pointer-0.6.0/symbolic_test_2.js,0.9707270430008066,all ok
+./prototype-pollution/json-pointer-0.6.0/symbolic_test_4.js,7.790323992001504,polluted
+./prototype-pollution/json-pointer-0.6.0/symbolic_test_3.js,1.4351257890011766,all ok
+./prototype-pollution/json-pointer-0.6.0/symbolic_test_1.js,0.9829168950018357,all ok
+./prototype-pollution/json-pointer-0.6.0/symbolic_test_0.js,0.957615621999139,all ok
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_2.js,0.914029092000419,polluted
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_4.js,0.8597698279991164,all ok
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_3.js,0.8178989799998817,all ok
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_5.js,0.7179108279997308,all ok
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_1.js,0.8901397730005556,polluted
+./prototype-pollution/merge-objects-1.0.5/symbolic_test_0.js,0.7277563890020247,all ok
+./prototype-pollution/mootools-1.5.2/symbolic_test_2.js,30.057663093000883,nothing
+./prototype-pollution/mootools-1.5.2/symbolic_test_4.js,30.058969688001525,nothing
+./prototype-pollution/mootools-1.5.2/symbolic_test_5.js,30.044584548002604,nothing
+./prototype-pollution/mootools-1.5.2/symbolic_test_1.js,30.057924198001274,nothing
+./prototype-pollution/mootools-1.5.2/symbolic_test_0.js,30.040424609000183,nothing
+./prototype-pollution/node-forge-0.9.0/symbolic_test_2.js,5.556902683998487,all ok
+./prototype-pollution/node-forge-0.9.0/symbolic_test_4.js,13.262225714999659,polluted
+./prototype-pollution/node-forge-0.9.0/symbolic_test_3.js,5.76849232099994,all ok
+./prototype-pollution/node-forge-0.9.0/symbolic_test_5.js,30.016493087001436,nothing
+./prototype-pollution/node-forge-0.9.0/symbolic_test_1.js,5.574528469001962,all ok
+./prototype-pollution/node-forge-0.9.0/symbolic_test_0.js,5.547424286000023,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_2.js,0.7485099879995687,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_4.js,0.7477432860032422,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_3.js,0.725237032998848,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_5.js,0.7317464250008925,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_1.js,0.718307659997663,all ok
+./prototype-pollution/reggae-0.0.1/symbolic_test_0.js,0.7472971480019623,all ok
+./prototype-pollution/eivindfjeldstad-dot-0.0.1/symbolic_test_2.js,0.6848076790010964,all ok
+./prototype-pollution/eivindfjeldstad-dot-0.0.1/symbolic_test_3.js,7.460486063999269,polluted
+./prototype-pollution/eivindfjeldstad-dot-0.0.1/symbolic_test_1.js,0.6851766580002732,all ok
+./prototype-pollution/eivindfjeldstad-dot-0.0.1/symbolic_test_0.js,0.6988017589974334,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_2.js,9.58604832799756,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_4.js,9.686717092998151,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_3.js,9.623647248001362,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_5.js,9.643737617003353,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_1.js,9.597234261000267,all ok
+./prototype-pollution/defaultsdeep-4.6.0/symbolic_test_0.js,9.764560060000804,all ok
+./prototype-pollution/assign-deep-0.4.6/symbolic_test_2.js,1.4569266969992896,all ok
+./prototype-pollution/assign-deep-0.4.6/symbolic_test_4.js,1.4674653870024486,all ok
+./prototype-pollution/assign-deep-0.4.6/symbolic_test_3.js,1.3775107609981205,polluted
+./prototype-pollution/assign-deep-0.4.6/symbolic_test_1.js,1.398044810997817,polluted
+./prototype-pollution/assign-deep-0.4.6/symbolic_test_0.js,1.3576944560008997,polluted
+./prototype-pollution/deepmergefn-1.1.0/symbolic_test_2.js,0.9067943399968499,polluted
+./prototype-pollution/deepmergefn-1.1.0/symbolic_test_4.js,0.8903691180021269,polluted
+./prototype-pollution/deepmergefn-1.1.0/symbolic_test_3.js,0.8506136639989563,polluted
+./prototype-pollution/deepmergefn-1.1.0/symbolic_test_1.js,0.8576958680023381,polluted
+./prototype-pollution/deepmergefn-1.1.0/symbolic_test_0.js,0.8464072810020298,polluted
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_2.js,0.746862431999034,all ok
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_4.js,30.015655281000363,nothing
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_3.js,8.029817710998032,polluted
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_5.js,30.0146561319998,nothing
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_1.js,0.7334672029974172,all ok
+./prototype-pollution/dot-notes-3.2.0/symbolic_test_0.js,0.7326054309996834,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_2.js,1.002443264998874,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_4.js,1.0600239929990494,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_3.js,1.004006210998341,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_5.js,1.2795863689971156,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_1.js,1.0206479569969815,all ok
+./prototype-pollution/minimist-1.0.0/symbolic_test_0.js,1.0498022050014697,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_2.js,0.7705296259991883,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_4.js,0.7838318020003499,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_3.js,0.7636453550003353,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_5.js,0.7697978319993126,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_1.js,0.7621043180006382,all ok
+./prototype-pollution/tiny-conf-1.1.0/symbolic_test_0.js,0.770112414000323,all ok
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_2.js,0.7807866060029482,all ok
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_4.js,7.455953449996741,polluted
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_3.js,1.2247839869996824,all ok
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_5.js,7.498651242996857,polluted
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_1.js,0.7838627040000574,all ok
+./prototype-pollution/deep-get-set-1.1.1/symbolic_test_0.js,0.8051985989986861,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_2.js,1.178875464000157,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_4.js,1.1853738209974836,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_3.js,1.1652204589991015,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_5.js,1.1513254410019726,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_1.js,1.1633624260030047,all ok
+./prototype-pollution/component-flatten-1.0.1/symbolic_test_0.js,1.1813792270004342,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_2.js,0.7485208149992104,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_4.js,0.772690567002428,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_11.js,30.01551225499861,nothing
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_9.js,24.575692501999583,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_8.js,30.012047140000504,nothing
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_10.js,30.01199348299997,nothing
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_3.js,0.7486790510010906,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_6.js,6.975994702999742,polluted
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_5.js,0.7693297810001241,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_1.js,0.7439837140009331,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_0.js,0.7471697239998321,all ok
+./prototype-pollution/set-deep-prop-1.0.0/symbolic_test_7.js,30.013132993997715,nothing
+./prototype-pollution/inireader-1.0.0/symbolic_test_2.js,1.2353454500007501,all ok
+./prototype-pollution/inireader-1.0.0/symbolic_test_4.js,1.6079019990029337,nothing
+./prototype-pollution/inireader-1.0.0/symbolic_test_8.js,9.165423862999887,all ok
+./prototype-pollution/inireader-1.0.0/symbolic_test_5.js,3.834155667998857,all ok
+./prototype-pollution/inireader-1.0.0/symbolic_test_1.js,1.2453310239980055,all ok
+./prototype-pollution/inireader-1.0.0/symbolic_test_0.js,1.2534480979993532,all ok
+./prototype-pollution/json8-merge-patch-1.0.2/symbolic_test_2.js,0.9227769589997479,all ok
+./prototype-pollution/json8-merge-patch-1.0.2/symbolic_test_4.js,0.9248587549991498,all ok
+./prototype-pollution/json8-merge-patch-1.0.2/symbolic_test_3.js,0.925729942999169,polluted
+./prototype-pollution/json8-merge-patch-1.0.2/symbolic_test_1.js,0.9197918270001537,polluted
+./prototype-pollution/json8-merge-patch-1.0.2/symbolic_test_0.js,0.8885315549996449,polluted
+./prototype-pollution/gedi-1.6.3/symbolic_test_2.js,1.0216710790009529,all ok
+./prototype-pollution/gedi-1.6.3/symbolic_test_4.js,1.0510672820018954,all ok
+./prototype-pollution/gedi-1.6.3/symbolic_test_3.js,1.0228578679998463,all ok
+./prototype-pollution/gedi-1.6.3/symbolic_test_5.js,1.0293666150028002,all ok
+./prototype-pollution/gedi-1.6.3/symbolic_test_1.js,1.0134765209986654,all ok
+./prototype-pollution/gedi-1.6.3/symbolic_test_0.js,1.0536855140016996,all ok
+./prototype-pollution/defaults-deep-0.2.4/symbolic_test_2.js,1.7838249970009201,polluted
+./prototype-pollution/defaults-deep-0.2.4/symbolic_test_3.js,30.04521565000323,nothing
+./prototype-pollution/defaults-deep-0.2.4/symbolic_test_1.js,1.0794440370009397,all ok
+./prototype-pollution/defaults-deep-0.2.4/symbolic_test_0.js,1.0861080870017759,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_2.js,1.1522085790020355,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_4.js,1.4236373200001253,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_3.js,1.2300720240018563,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_5.js,1.2301885779997974,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_1.js,1.1452016680013912,all ok
+./prototype-pollution/property-expr-2.0.2/symbolic_test_0.js,1.1583331639994867,all ok
+./prototype-pollution/defaults-deep-0.2.0/symbolic_test_2.js,1.549947952000366,polluted
+./prototype-pollution/defaults-deep-0.2.0/symbolic_test_3.js,30.043859522000275,nothing
+./prototype-pollution/defaults-deep-0.2.0/symbolic_test_1.js,1.297498424002697,all ok
+./prototype-pollution/defaults-deep-0.2.0/symbolic_test_0.js,1.2963326320023043,polluted
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_2.js,0.6792676629993366,all ok
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_4.js,0.6941498850028438,all ok
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_3.js,0.6745548710023286,all ok
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_5.js,0.6848541170002136,all ok
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_1.js,0.6724422049992427,all ok
+./prototype-pollution/grunt-util-property-0.0.2/symbolic_test_0.js,0.6838424319976184,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_2.js,1.2035744029999478,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_4.js,1.2208123310010706,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_3.js,1.2358677970005374,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_6.js,1.0220372889998544,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_5.js,1.2181446110007528,all ok
+./prototype-pollution/merge-2.1.0/symbolic_test_1.js,1.2972508300008485,polluted
+./prototype-pollution/merge-2.1.0/symbolic_test_0.js,1.2490187820003484,polluted
+./prototype-pollution/merge-2.1.0/symbolic_test_7.js,0.98298862899901,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_2.js,14.910223783001129,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_4.js,15.226513113000692,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_3.js,15.032650191998982,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_5.js,15.133041852001043,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_1.js,15.018588399001601,all ok
+./prototype-pollution/chartkick-3.1.3/symbolic_test_0.js,15.149271761001728,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_2.js,1.253505401997245,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_4.js,1.3236661219998496,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_11.js,1.2770078140019905,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_9.js,1.2750381299993023,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_10.js,1.294317191997834,all ok
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_1.js,1.265969888001564,polluted
+./prototype-pollution/merge-deep-3.0.0/symbolic_test_0.js,1.2042162439975073,polluted
+./prototype-pollution/getobject-0.1.0/symbolic_test_2.js,0.7201239109999733,all ok
+./prototype-pollution/getobject-0.1.0/symbolic_test_4.js,0.7398951909999596,all ok
+./prototype-pollution/getobject-0.1.0/symbolic_test_3.js,0.7181527519969677,all ok
+./prototype-pollution/getobject-0.1.0/symbolic_test_5.js,0.7210103530014749,all ok
+./prototype-pollution/getobject-0.1.0/symbolic_test_1.js,0.7177552899993316,all ok
+./prototype-pollution/getobject-0.1.0/symbolic_test_0.js,0.7360642879975785,all ok
+./prototype-pollution/dset-3.1.1/symbolic_test_2.js,0.6888078160009172,all ok
+./prototype-pollution/dset-3.1.1/symbolic_test_4.js,0.8741897229992901,all ok
+./prototype-pollution/dset-3.1.1/symbolic_test_9.js,0.9107956230000127,polluted
+./prototype-pollution/dset-3.1.1/symbolic_test_10.js,0.8624889239981712,all ok
+./prototype-pollution/dset-3.1.1/symbolic_test_3.js,0.9152427660010289,polluted
+./prototype-pollution/dset-3.1.1/symbolic_test_1.js,0.6923551030013186,all ok
+./prototype-pollution/dset-3.1.1/symbolic_test_0.js,0.6872849899991706,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_2.js,0.7639153680029267,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_4.js,0.7839473739986715,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_3.js,0.7677075690007769,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_5.js,0.7706688510006643,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_1.js,0.7585739930000273,all ok
+./prototype-pollution/arr-flatten-unflatten-1.1.4/symbolic_test_0.js,0.7821481690007204,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_2.js,0.9878996090010332,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_4.js,0.9069888670019282,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_11.js,0.8621566359979624,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_9.js,0.8270396939988132,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_8.js,0.8474176050003734,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_12.js,0.8302120129992545,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_10.js,0.9190549330014619,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_3.js,0.8401523699976678,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_6.js,0.829380676997971,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_5.js,0.8445109269996465,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_1.js,0.9553089609980816,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_0.js,0.9486618480004836,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_7.js,0.9303164430020843,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_13.js,0.921033503000217,all ok
+./prototype-pollution/putil-merge-3.0.0/symbolic_test_14.js,0.8410777419994702,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_2.js,0.7335793240017665,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_4.js,0.8440217380011745,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_11.js,30.035593181997683,nothing
+./prototype-pollution/field-1.0.1/symbolic_test_9.js,30.037507941000513,nothing
+./prototype-pollution/field-1.0.1/symbolic_test_8.js,0.9007559419987956,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_12.js,0.811843648996728,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_15.js,0.9010201300006884,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_10.js,30.039821250000386,nothing
+./prototype-pollution/field-1.0.1/symbolic_test_5.js,0.8179126139984874,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_1.js,0.7300265320009203,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_0.js,0.7348756530009268,all ok
+./prototype-pollution/field-1.0.1/symbolic_test_7.js,0.9096992980012146,all ok
+./prototype-pollution/js-1.0.2/symbolic_test_2.js,1.2197452729997167,polluted
+./prototype-pollution/js-1.0.2/symbolic_test_4.js,1.2008048789975874,all ok
+./prototype-pollution/js-1.0.2/symbolic_test_3.js,1.272197630998562,polluted
+./prototype-pollution/js-1.0.2/symbolic_test_5.js,30.045323964997806,nothing
+./prototype-pollution/js-1.0.2/symbolic_test_1.js,1.2103224790007516,polluted
+./prototype-pollution/js-1.0.2/symbolic_test_0.js,1.118415537999681,all ok
+./prototype-pollution/libnested-1.5.0/symbolic_test_2.js,0.8458067100000335,all ok
+./prototype-pollution/libnested-1.5.0/symbolic_test_4.js,8.558640837003622,polluted
+./prototype-pollution/libnested-1.5.0/symbolic_test_3.js,0.954586167998059,all ok
+./prototype-pollution/libnested-1.5.0/symbolic_test_5.js,1.2879997309973987,all ok
+./prototype-pollution/libnested-1.5.0/symbolic_test_1.js,0.8322112309979275,all ok
+./prototype-pollution/libnested-1.5.0/symbolic_test_0.js,0.8431615499976033,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_2.js,1.3782838830011315,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_4.js,1.5597008269978687,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_11.js,30.01435785099966,nothing
+./prototype-pollution/objutil-2.17.3/symbolic_test_9.js,9.518553902998974,polluted
+./prototype-pollution/objutil-2.17.3/symbolic_test_8.js,30.014925732997654,nothing
+./prototype-pollution/objutil-2.17.3/symbolic_test_10.js,30.01425659400047,nothing
+./prototype-pollution/objutil-2.17.3/symbolic_test_3.js,1.5572434329988027,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_6.js,9.633663374999742,polluted
+./prototype-pollution/objutil-2.17.3/symbolic_test_5.js,1.5829376820001926,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_1.js,1.3929239649987721,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_0.js,1.4092645599994285,all ok
+./prototype-pollution/objutil-2.17.3/symbolic_test_7.js,30.01518736899743,nothing
+./prototype-pollution/bodymen-1.0.0/symbolic_test_2.js,1.0130409480007074,all ok
+./prototype-pollution/bodymen-1.0.0/symbolic_test_3.js,9.354652882000664,polluted
+./prototype-pollution/bodymen-1.0.0/symbolic_test_1.js,1.0133592140009569,all ok
+./prototype-pollution/bodymen-1.0.0/symbolic_test_0.js,1.0227712269988842,all ok
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_2.js,0.8713442750013201,all ok
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_4.js,0.9183233740004653,all ok
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_3.js,0.8590081599977566,all ok
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_5.js,30.021619512001052,nothing
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_1.js,0.8658891579980263,all ok
+./prototype-pollution/safe-obj-1.0.0/symbolic_test_0.js,0.9010283409988915,all ok
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_2.js,1.1211448179965373,all ok
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_4.js,1.4579740849985683,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_9.js,30.028598679000424,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_8.js,30.04540362499756,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_10.js,30.0456917579977,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_3.js,1.333579947000544,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_6.js,1.434302382000169,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_5.js,1.452734271002555,nothing
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_1.js,1.108321698000509,all ok
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_0.js,1.1118752139991557,all ok
+./prototype-pollution/properties-reader-2.0.0/symbolic_test_7.js,1.4494011889983085,nothing
+./prototype-pollution/sahmat-1.0.1/symbolic_test_2.js,0.6855808459986292,all ok
+./prototype-pollution/sahmat-1.0.1/symbolic_test_4.js,16.43779177399847,polluted
+./prototype-pollution/sahmat-1.0.1/symbolic_test_3.js,0.6857159539977147,all ok
+./prototype-pollution/sahmat-1.0.1/symbolic_test_5.js,0.6982233929993527,all ok
+./prototype-pollution/sahmat-1.0.1/symbolic_test_1.js,0.672505013000773,all ok
+./prototype-pollution/sahmat-1.0.1/symbolic_test_0.js,0.6703587170013634,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_2.js,1.5623326639979496,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_4.js,2.181697547999647,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_11.js,2.074658350000391,nothing
+./prototype-pollution/hoek-5.0.2/symbolic_test_9.js,1.6322870189978858,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_8.js,1.6789070129998436,nothing
+./prototype-pollution/hoek-5.0.2/symbolic_test_12.js,2.1370123510023404,polluted
+./prototype-pollution/hoek-5.0.2/symbolic_test_3.js,2.194953557998815,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_6.js,2.1772833219984022,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_5.js,2.230219508001028,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_1.js,1.5703586569979961,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_0.js,1.5567262389995449,all ok
+./prototype-pollution/hoek-5.0.2/symbolic_test_7.js,1.6139564069999324,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_2.js,1.8545419440015394,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_4.js,1.8870303420007986,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_3.js,1.8715236900025047,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_5.js,1.8930341220002447,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_1.js,1.8714159889968869,all ok
+./prototype-pollution/dot-object-2.1.2/symbolic_test_0.js,1.9863388249978016,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_2.js,1.2169441010009905,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_4.js,1.2689306590000342,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_11.js,1.6617139910013066,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_9.js,1.65822827699958,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_8.js,2.408579102000658,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_12.js,12.377777620000415,polluted
+./prototype-pollution/gammautils-0.0.81/symbolic_test_10.js,12.04485924400069,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_3.js,2.0688148709996312,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_6.js,1.2561110839997127,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_5.js,1.3013092080000206,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_1.js,1.1464839379987097,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_0.js,1.1257847659981053,all ok
+./prototype-pollution/gammautils-0.0.81/symbolic_test_7.js,1.2528954790032003,all ok
+./prototype-pollution/pathval-1.1.0/symbolic_test_2.js,0.7386904899976798,all ok
+./prototype-pollution/pathval-1.1.0/symbolic_test_3.js,30.041823255000054,nothing
+./prototype-pollution/pathval-1.1.0/symbolic_test_1.js,0.7384485649999988,all ok
+./prototype-pollution/pathval-1.1.0/symbolic_test_0.js,0.7463702550012385,all ok
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_2.js,0.6654145649990824,all ok
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_4.js,7.396079125999677,polluted
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_3.js,1.1065346709983714,all ok
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_5.js,7.494868857997062,polluted
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_1.js,0.6653759719993104,all ok
+./prototype-pollution/just-safe-set-1.0.0/symbolic_test_0.js,0.6841392569986056,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_2.js,0.7155421600000409,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_4.js,0.7165198930015322,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_11.js,30.01426734600318,nothing
+./prototype-pollution/dset-1.0.0/symbolic_test_9.js,10.230516255000111,polluted
+./prototype-pollution/dset-1.0.0/symbolic_test_8.js,30.015050468999107,nothing
+./prototype-pollution/dset-1.0.0/symbolic_test_12.js,0.718596572001843,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_15.js,10.172540012001264,polluted
+./prototype-pollution/dset-1.0.0/symbolic_test_10.js,30.015391223001643,nothing
+./prototype-pollution/dset-1.0.0/symbolic_test_5.js,0.7262550439991173,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_1.js,0.7052332220009703,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_0.js,0.7017742179996276,all ok
+./prototype-pollution/dset-1.0.0/symbolic_test_7.js,30.01503625999976,nothing
+./prototype-pollution/hoek-5.0.0/symbolic_test_2.js,1.814472816997295,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_4.js,1.5462902420003957,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_11.js,1.5448963460003142,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_9.js,1.500017802001821,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_8.js,1.5009154079998552,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_12.js,1.5384138160006842,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_3.js,1.5303835599988815,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_6.js,1.5401366730002337,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_5.js,1.53484275899973,all ok
+./prototype-pollution/hoek-5.0.0/symbolic_test_1.js,1.9963549450003484,polluted
+./prototype-pollution/hoek-5.0.0/symbolic_test_0.js,1.9813391559982847,polluted
+./prototype-pollution/hoek-5.0.0/symbolic_test_7.js,1.495228858999326,all ok
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_2.js,1.0276171740006248,polluted
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_4.js,0.845622684002592,all ok
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_3.js,1.0924591119983234,polluted
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_5.js,0.8234432749995904,all ok
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_1.js,0.9956604250000964,polluted
+./prototype-pollution/assign-deep-1.0.0/symbolic_test_0.js,1.0644418620031502,polluted
+./prototype-pollution/nestie-1.0.0/symbolic_test_2.js,0.6629475589979847,all ok
+./prototype-pollution/nestie-1.0.0/symbolic_test_4.js,1.5915848889999324,all ok
+./prototype-pollution/nestie-1.0.0/symbolic_test_3.js,1.5455681909988925,all ok
+./prototype-pollution/nestie-1.0.0/symbolic_test_1.js,0.6511470989971713,all ok
+./prototype-pollution/nestie-1.0.0/symbolic_test_0.js,0.6535666160016262,all ok
+./prototype-pollution/safetydance-1.1.1/symbolic_test_2.js,1.3711509770000703,all ok
+./prototype-pollution/safetydance-1.1.1/symbolic_test_4.js,1.4723411630002374,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_11.js,1.4947876339974755,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_9.js,1.4774938819973613,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_8.js,1.5046689339978911,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_10.js,1.4720892619989172,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_3.js,1.4461420490006276,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_6.js,1.4917897369996354,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_5.js,1.4880227539979387,nothing
+./prototype-pollution/safetydance-1.1.1/symbolic_test_1.js,1.3750059019985201,all ok
+./prototype-pollution/safetydance-1.1.1/symbolic_test_0.js,1.3840979679989687,all ok
+./prototype-pollution/safetydance-1.1.1/symbolic_test_7.js,1.4984263909973379,nothing
+./prototype-pollution/nconf-0.11.3/symbolic_test_2.js,0.7481086810003035,all ok
+./prototype-pollution/nconf-0.11.3/symbolic_test_4.js,0.7751059740003257,all ok
+./prototype-pollution/nconf-0.11.3/symbolic_test_3.js,0.7477347749991168,all ok
+./prototype-pollution/nconf-0.11.3/symbolic_test_5.js,0.7594994430000952,all ok
+./prototype-pollution/nconf-0.11.3/symbolic_test_1.js,0.755527870998776,all ok
+./prototype-pollution/nconf-0.11.3/symbolic_test_0.js,0.7668576020005275,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_2.js,0.9500361379978131,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_4.js,30.013939429001766,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_11.js,30.014941213001293,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_9.js,12.034363626000413,polluted
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_18.js,12.495203259000846,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_8.js,30.01339217900022,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_25.js,30.013280015999044,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_12.js,12.607450748000701,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_15.js,12.180579810999916,polluted
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_10.js,30.014256057998864,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_26.js,30.014443695003138,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_5.js,30.015631239999493,nothing
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_1.js,1.106541549001122,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_0.js,1.0023828290031815,all ok
+./prototype-pollution/nis-utils-0.6.10/symbolic_test_7.js,30.01206935099981,nothing
+./prototype-pollution/ini-1.3.5/symbolic_test_2.js,0.8788612329990428,all ok
+./prototype-pollution/ini-1.3.5/symbolic_test_3.js,30.041048826002225,nothing
+./prototype-pollution/ini-1.3.5/symbolic_test_1.js,0.866964206998091,all ok
+./prototype-pollution/ini-1.3.5/symbolic_test_0.js,0.8651940320014546,all ok
+./prototype-pollution/json8-merge-patch-1.0.1/symbolic_test_2.js,0.842673677001585,all ok
+./prototype-pollution/json8-merge-patch-1.0.1/symbolic_test_4.js,0.8554726530019252,all ok
+./prototype-pollution/json8-merge-patch-1.0.1/symbolic_test_3.js,0.8613568540022243,polluted
+./prototype-pollution/json8-merge-patch-1.0.1/symbolic_test_1.js,0.864930056999583,polluted
+./prototype-pollution/json8-merge-patch-1.0.1/symbolic_test_0.js,0.8288518240005942,polluted
+./prototype-pollution/merge-4.6.0/symbolic_test_2.js,9.886646368999209,all ok
+./prototype-pollution/merge-4.6.0/symbolic_test_4.js,30.01958543300134,nothing
+./prototype-pollution/merge-4.6.0/symbolic_test_3.js,9.907358857002691,all ok
+./prototype-pollution/merge-4.6.0/symbolic_test_5.js,30.019074053001532,nothing
+./prototype-pollution/merge-4.6.0/symbolic_test_1.js,9.880969190999167,all ok
+./prototype-pollution/merge-4.6.0/symbolic_test_0.js,10.05205006899996,all ok
+./prototype-pollution/mathjs-7.4.0/symbolic_test_2.js,1.0161319899998489,all ok
+./prototype-pollution/mathjs-7.4.0/symbolic_test_4.js,1.2315168140012247,all ok
+./prototype-pollution/mathjs-7.4.0/symbolic_test_3.js,1.3109287970000878,polluted
+./prototype-pollution/mathjs-7.4.0/symbolic_test_1.js,1.0206091459986055,all ok
+./prototype-pollution/mathjs-7.4.0/symbolic_test_0.js,1.0141338239991455,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_2.js,0.8559555209976679,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_4.js,0.8106308860005811,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_8.js,0.8122352430000319,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_3.js,0.8046877279994078,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_1.js,0.8431206489985925,all ok
+./prototype-pollution/decal-2.0.0/symbolic_test_0.js,0.8356465850010864,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_2.js,1.0223435719999543,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_4.js,1.0384064149984624,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_3.js,1.0331736970001657,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_5.js,1.0771694449977076,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_1.js,1.048593987001368,all ok
+./prototype-pollution/objnest-5.0.0/symbolic_test_0.js,1.2641171519971977,all ok
+./prototype-pollution/extend-2.0.0/symbolic_test_2.js,0.9040178260001994,all ok
+./prototype-pollution/extend-2.0.0/symbolic_test_4.js,30.049046243999328,nothing
+./prototype-pollution/extend-2.0.0/symbolic_test_3.js,0.9013972329994431,all ok
+./prototype-pollution/extend-2.0.0/symbolic_test_5.js,30.042233647000103,nothing
+./prototype-pollution/extend-2.0.0/symbolic_test_1.js,0.9216255140017893,all ok
+./prototype-pollution/extend-2.0.0/symbolic_test_0.js,1.3671780399999989,polluted
+./prototype-pollution/notevil-1.3.3/symbolic_test_2.js,1.4778075479989639,all ok
+./prototype-pollution/notevil-1.3.3/symbolic_test_4.js,1.56713596100235,all ok
+./prototype-pollution/notevil-1.3.3/symbolic_test_3.js,1.5959492420006427,all ok
+./prototype-pollution/notevil-1.3.3/symbolic_test_5.js,1.5461811029999808,all ok
+./prototype-pollution/notevil-1.3.3/symbolic_test_1.js,1.4760930579977867,all ok
+./prototype-pollution/notevil-1.3.3/symbolic_test_0.js,1.5032208919983532,all ok
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_2.js,1.4962412820023019,nothing
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_4.js,1.6090752579984837,nothing
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_8.js,1.4931061540009978,nothing
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_3.js,1.3779567390010925,nothing
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_1.js,1.4845907020026061,nothing
+./prototype-pollution/paypal-adaptive-0.4.1/symbolic_test_0.js,1.3778616090021387,nothing
+./prototype-pollution/ini-parser-0.0.2/symbolic_test_2.js,0.8224377289989206,all ok
+./prototype-pollution/ini-parser-0.0.2/symbolic_test_4.js,0.8161880120023852,nothing
+./prototype-pollution/ini-parser-0.0.2/symbolic_test_3.js,0.8608649000016158,nothing
+./prototype-pollution/ini-parser-0.0.2/symbolic_test_1.js,0.7668958440008282,all ok
+./prototype-pollution/ini-parser-0.0.2/symbolic_test_0.js,0.7580906209987006,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_2.js,0.7946459029990365,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_4.js,0.9630048649996752,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_3.js,0.9110846070034313,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_5.js,0.9117719569985638,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_1.js,0.8326373519994377,all ok
+./prototype-pollution/deap-1.0.0/symbolic_test_0.js,0.8449670739973953,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_2.js,0.6939139860005525,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_4.js,0.837573896998947,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_3.js,0.6766736979989219,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_5.js,0.7566688379993138,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_1.js,0.6858462759992108,all ok
+./prototype-pollution/safe-flat-2.0.0/symbolic_test_0.js,0.7124021540003014,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_2.js,0.7348896769981366,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_4.js,0.7417222699987178,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_3.js,0.7267802300011681,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_5.js,0.7219646660014405,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_1.js,0.768673509999644,all ok
+./prototype-pollution/getsetdeep-4.15.0/symbolic_test_0.js,0.751528449000034,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_2.js,1.3703764010024315,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_4.js,1.5408223420017748,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_11.js,1.331272125000396,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_9.js,1.3332826480000222,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_10.js,1.3984282159981376,all ok
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_1.js,1.2375319400016451,polluted
+./prototype-pollution/merge-deep2-3.0.5/symbolic_test_0.js,1.2095080660001258,polluted
+./prototype-pollution/bmoor-0.8.11/symbolic_test_2.js,0.9425166199980595,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_47.js,30.01541268100118,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_4.js,1.1816170229976706,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_46.js,30.01618605100157,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_35.js,3.379188539001916,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_39.js,1.1080687339999713,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_33.js,1.5386213679994398,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_11.js,30.01325729099699,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_9.js,9.63485798200054,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_44.js,3.818944331000239,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_18.js,9.432313663000969,polluted
+./prototype-pollution/bmoor-0.8.11/symbolic_test_8.js,3.6590803770013736,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_38.js,30.016013926000596,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_40.js,1.1824828699973295,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_25.js,3.6058677709988842,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_21.js,1.1291308690015285,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_23.js,1.1493632580022677,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_12.js,1.1458165520016337,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_31.js,1.1498622569997679,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_15.js,1.747313903997565,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_10.js,30.01366290799706,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_28.js,30.014931236000848,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_3.js,1.1000542149995454,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_42.js,1.59658950100129,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_6.js,1.6407625390020257,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_22.js,1.1203368050009885,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_26.js,3.6517441010000766,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_36.js,9.391194727999391,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_20.js,30.014377909999894,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_24.js,1.638263109998661,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_41.js,1.1233810269986861,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_5.js,1.161709088999487,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_17.js,3.8756945700006327,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_1.js,0.9514560909992724,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_0.js,0.9916327589999128,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_30.js,1.1442608229990583,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_7.js,3.520889322000585,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_43.js,3.7054733959994337,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_13.js,1.1644029089984542,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_45.js,9.181678721997741,polluted
+./prototype-pollution/bmoor-0.8.11/symbolic_test_34.js,3.3451332390031894,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_16.js,3.6161062739993213,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_37.js,30.01271061800071,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_14.js,1.174626633997832,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_19.js,30.015009729002486,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_32.js,1.1299881580016518,nothing
+./prototype-pollution/bmoor-0.8.11/symbolic_test_27.js,9.345006926003407,all ok
+./prototype-pollution/bmoor-0.8.11/symbolic_test_29.js,30.01537608400031,nothing
+./prototype-pollution/convict-6.2.2/symbolic_test_2.js,2.100922499997978,all ok
+./prototype-pollution/convict-6.2.2/symbolic_test_4.js,2.1133963629981736,all ok
+./prototype-pollution/convict-6.2.2/symbolic_test_3.js,2.073565228998632,all ok
+./prototype-pollution/convict-6.2.2/symbolic_test_5.js,2.349160195000877,all ok
+./prototype-pollution/convict-6.2.2/symbolic_test_1.js,2.0756961120023334,all ok
+./prototype-pollution/convict-6.2.2/symbolic_test_0.js,2.0985624529967026,all ok
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_2.js,1.069821409000724,all ok
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_4.js,30.04673210100009,nothing
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_8.js,30.017589099999896,nothing
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_3.js,30.04525613700025,nothing
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_1.js,1.0181384489987977,polluted
+./prototype-pollution/assign-0.0.0-alpha.0/symbolic_test_0.js,0.9999927329990896,polluted
+./prototype-pollution/querymen-2.1.3/symbolic_test_2.js,1.1029369219977525,all ok
+./prototype-pollution/querymen-2.1.3/symbolic_test_3.js,9.42738263299907,polluted
+./prototype-pollution/querymen-2.1.3/symbolic_test_1.js,1.1066615649979212,all ok
+./prototype-pollution/querymen-2.1.3/symbolic_test_0.js,1.1012279890019272,all ok
+./prototype-pollution/algoliasearch-helper-3.6.0/symbolic_test_2.js,1.1279833640001016,all ok
+./prototype-pollution/algoliasearch-helper-3.6.0/symbolic_test_4.js,1.109214955002244,all ok
+./prototype-pollution/algoliasearch-helper-3.6.0/symbolic_test_3.js,1.1518879379982536,polluted
+./prototype-pollution/algoliasearch-helper-3.6.0/symbolic_test_1.js,1.1380092290019093,polluted
+./prototype-pollution/algoliasearch-helper-3.6.0/symbolic_test_0.js,1.1159202660019218,polluted
+./prototype-pollution/think-config-1.0.0/symbolic_test_2.js,0.6979187569995702,all ok
+./prototype-pollution/think-config-1.0.0/symbolic_test_4.js,0.9005885539991141,all ok
+./prototype-pollution/think-config-1.0.0/symbolic_test_8.js,30.034045665997837,nothing
+./prototype-pollution/think-config-1.0.0/symbolic_test_3.js,0.7192667950002942,all ok
+./prototype-pollution/think-config-1.0.0/symbolic_test_1.js,0.6750908120011445,all ok
+./prototype-pollution/think-config-1.0.0/symbolic_test_0.js,0.6713143279994256,all ok
+./prototype-pollution/patchmerge-1.0.1/symbolic_test_2.js,0.7371331309986999,nothing
+./prototype-pollution/patchmerge-1.0.1/symbolic_test_4.js,0.7415467129976605,nothing
+./prototype-pollution/patchmerge-1.0.1/symbolic_test_3.js,0.716636261997337,nothing
+./prototype-pollution/patchmerge-1.0.1/symbolic_test_1.js,0.735288773998036,nothing
+./prototype-pollution/patchmerge-1.0.1/symbolic_test_0.js,0.7356579480001528,nothing
+./prototype-pollution/object-path-set-1.0.0/symbolic_test_2.js,0.7183804090018384,all ok
+./prototype-pollution/object-path-set-1.0.0/symbolic_test_4.js,4.826344500001142,polluted
+./prototype-pollution/object-path-set-1.0.0/symbolic_test_3.js,1.107237789001374,all ok
+./prototype-pollution/object-path-set-1.0.0/symbolic_test_1.js,0.7280740589994821,all ok
+./prototype-pollution/object-path-set-1.0.0/symbolic_test_0.js,0.7198550909997721,all ok
+./prototype-pollution/sds-3.2.0/symbolic_test_2.js,0.7009173039987218,all ok
+./prototype-pollution/sds-3.2.0/symbolic_test_4.js,1.1923244000026898,nothing
+./prototype-pollution/sds-3.2.0/symbolic_test_11.js,1.3499841119992197,nothing
+./prototype-pollution/sds-3.2.0/symbolic_test_9.js,16.519459310999082,polluted
+./prototype-pollution/sds-3.2.0/symbolic_test_8.js,1.431581800999993,nothing
+./prototype-pollution/sds-3.2.0/symbolic_test_10.js,1.3959080019994872,nothing
+./prototype-pollution/sds-3.2.0/symbolic_test_3.js,1.2774382319985307,all ok
+./prototype-pollution/sds-3.2.0/symbolic_test_6.js,16.755672231000062,polluted
+./prototype-pollution/sds-3.2.0/symbolic_test_5.js,1.2036380850004207,nothing
+./prototype-pollution/sds-3.2.0/symbolic_test_1.js,0.7111602380027762,all ok
+./prototype-pollution/sds-3.2.0/symbolic_test_0.js,0.6988317549985368,all ok
+./prototype-pollution/sds-3.2.0/symbolic_test_7.js,1.350315514999238,nothing
+./prototype-pollution/mout-1.0.0/symbolic_test_2.js,0.7854618809979002,all ok
+./prototype-pollution/mout-1.0.0/symbolic_test_4.js,30.04010758200093,nothing
+./prototype-pollution/mout-1.0.0/symbolic_test_3.js,0.7479805609982577,all ok
+./prototype-pollution/mout-1.0.0/symbolic_test_5.js,30.041026085997146,nothing
+./prototype-pollution/mout-1.0.0/symbolic_test_1.js,0.7476183940016199,all ok
+./prototype-pollution/mout-1.0.0/symbolic_test_0.js,0.7651539109974692,all ok
+./prototype-pollution/mixin-deep-2.0.0/symbolic_test_2.js,1.043725136998546,polluted
+./prototype-pollution/mixin-deep-2.0.0/symbolic_test_3.js,0.6425823079989641,all ok
+./prototype-pollution/mixin-deep-2.0.0/symbolic_test_1.js,0.791430286000832,all ok
+./prototype-pollution/mixin-deep-2.0.0/symbolic_test_0.js,0.8051253869998618,all ok
+./prototype-pollution/mergewith-4.6.1/symbolic_test_2.js,10.101016413002071,all ok
+./prototype-pollution/mergewith-4.6.1/symbolic_test_4.js,10.529378081999312,nothing
+./prototype-pollution/mergewith-4.6.1/symbolic_test_3.js,10.304696184997738,all ok
+./prototype-pollution/mergewith-4.6.1/symbolic_test_5.js,8.289486532998126,nothing
+./prototype-pollution/mergewith-4.6.1/symbolic_test_1.js,10.079316416002257,all ok
+./prototype-pollution/mergewith-4.6.1/symbolic_test_0.js,10.53870570199797,all ok
+./prototype-pollution/merge-options-1.0.0/symbolic_test_2.js,1.8621034120005788,all ok
+./prototype-pollution/merge-options-1.0.0/symbolic_test_4.js,1.239268967998214,all ok
+./prototype-pollution/merge-options-1.0.0/symbolic_test_1.js,1.8150432239999645,polluted
+./prototype-pollution/merge-options-1.0.0/symbolic_test_0.js,1.7609969719997025,polluted
+./prototype-pollution/y18n-3.2.1/symbolic_test_2.js,1.1484199529986654,all ok
+./prototype-pollution/y18n-3.2.1/symbolic_test_4.js,1.1746880339997006,all ok
+./prototype-pollution/y18n-3.2.1/symbolic_test_3.js,1.1542369290000352,all ok
+./prototype-pollution/y18n-3.2.1/symbolic_test_5.js,1.15602082300029,all ok
+./prototype-pollution/y18n-3.2.1/symbolic_test_1.js,1.1579584639985114,all ok
+./prototype-pollution/y18n-3.2.1/symbolic_test_0.js,1.441873432999273,all ok
+./prototype-pollution/deeply-3.0.0/symbolic_test_2.js,0.8220745190010348,all ok
+./prototype-pollution/deeply-3.0.0/symbolic_test_4.js,0.8351399269995454,all ok
+./prototype-pollution/deeply-3.0.0/symbolic_test_3.js,0.9644289130010293,polluted
+./prototype-pollution/deeply-3.0.0/symbolic_test_1.js,0.9660870299994713,polluted
+./prototype-pollution/deeply-3.0.0/symbolic_test_0.js,0.9362375330019859,polluted
+./prototype-pollution/mquery-3.2.1/symbolic_test_2.js,0.9913826279989735,all ok
+./prototype-pollution/mquery-3.2.1/symbolic_test_4.js,1.2638748270001088,polluted
+./prototype-pollution/mquery-3.2.1/symbolic_test_9.js,1.4815439919984783,polluted
+./prototype-pollution/mquery-3.2.1/symbolic_test_8.js,1.5063934440004232,polluted
+./prototype-pollution/mquery-3.2.1/symbolic_test_3.js,1.2488289379980415,polluted
+./prototype-pollution/mquery-3.2.1/symbolic_test_1.js,0.9830091250005353,all ok
+./prototype-pollution/mquery-3.2.1/symbolic_test_0.js,0.9835637120013416,all ok
+./prototype-pollution/keyd-1.3.4/symbolic_test_2.js,1.0265909930021735,all ok
+./prototype-pollution/keyd-1.3.4/symbolic_test_4.js,1.110349804002908,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_11.js,30.01511517200197,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_9.js,9.25181493099808,polluted
+./prototype-pollution/keyd-1.3.4/symbolic_test_8.js,30.016434922999906,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_10.js,30.016045940999902,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_3.js,1.1022955860025831,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_6.js,7.633717323002202,polluted
+./prototype-pollution/keyd-1.3.4/symbolic_test_5.js,1.1463673199978075,nothing
+./prototype-pollution/keyd-1.3.4/symbolic_test_1.js,1.0637293020008656,all ok
+./prototype-pollution/keyd-1.3.4/symbolic_test_0.js,1.1197116089970223,all ok
+./prototype-pollution/keyd-1.3.4/symbolic_test_7.js,30.01405688700106,nothing
+./prototype-pollution/merge-change-1.0.1/symbolic_test_2.js,0.7657280400017044,all ok
+./prototype-pollution/merge-change-1.0.1/symbolic_test_4.js,0.7854883119980514,all ok
+./prototype-pollution/merge-change-1.0.1/symbolic_test_3.js,0.7248002919986902,all ok
+./prototype-pollution/merge-change-1.0.1/symbolic_test_5.js,0.7249903769989032,all ok
+./prototype-pollution/merge-change-1.0.1/symbolic_test_1.js,0.8132495889985876,all ok
+./prototype-pollution/merge-change-1.0.1/symbolic_test_0.js,0.7473541910003405,all ok
+./prototype-pollution/get-setter-0.0.0/symbolic_test_2.js,0.7034821079978428,all ok
+./prototype-pollution/get-setter-0.0.0/symbolic_test_3.js,7.0493114789969695,polluted
+./prototype-pollution/get-setter-0.0.0/symbolic_test_1.js,0.6861272210007883,all ok
+./prototype-pollution/get-setter-0.0.0/symbolic_test_0.js,0.6969941630013636,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_2.js,0.771817793000082,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_4.js,1.274806253000861,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_11.js,30.013561657000537,nothing
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_9.js,4.400647933998698,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_8.js,30.013632830999995,nothing
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_10.js,3.224111988001823,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_3.js,1.5749158159997023,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_6.js,4.554863501001819,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_5.js,9.561361072999716,polluted
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_1.js,0.7230287210004462,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_0.js,0.7117746489966521,all ok
+./prototype-pollution/promisehelpers-0.0.5/symbolic_test_7.js,3.01750918900143,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_2.js,1.03227337700082,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_4.js,1.0314141470007598,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_3.js,1.032146579997061,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_5.js,1.302603779000492,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_1.js,1.024566349999077,all ok
+./prototype-pollution/minimist-1.2.2/symbolic_test_0.js,1.0326682519989845,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_2.js,1.001631957002246,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_4.js,1.0818764460018429,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_3.js,1.0925579670001753,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_5.js,1.0556591360000311,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_1.js,0.9874590670006,all ok
+./prototype-pollution/supermixer-1.0.3/symbolic_test_0.js,1.0437556880024204,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_2.js,2.7883160180026607,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_4.js,2.573008285002288,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_3.js,2.409749362999719,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_5.js,2.444865748999291,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_1.js,2.522400812998967,all ok
+./prototype-pollution/qs-6.2.2/symbolic_test_0.js,2.4259702679992188,all ok
+./prototype-pollution/querymen-2.1.4/symbolic_test_2.js,1.149791877996904,all ok
+./prototype-pollution/querymen-2.1.4/symbolic_test_3.js,9.304249093998806,polluted
+./prototype-pollution/querymen-2.1.4/symbolic_test_1.js,1.064350866003224,all ok
+./prototype-pollution/querymen-2.1.4/symbolic_test_0.js,1.076491392999742,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_2.js,0.668789156999992,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_4.js,17.234429341999203,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_8.js,0.7355097679974278,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_3.js,0.7685053220011469,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_1.js,0.703562360999058,all ok
+./prototype-pollution/protobufjs-6.11.0/symbolic_test_0.js,0.6927808250002272,all ok
+./prototype-pollution/deephas-1.0.5/symbolic_test_2.js,0.8652954919998592,all ok
+./prototype-pollution/deephas-1.0.5/symbolic_test_3.js,7.933820967002248,polluted
+./prototype-pollution/deephas-1.0.5/symbolic_test_1.js,0.8301959749987873,all ok
+./prototype-pollution/deephas-1.0.5/symbolic_test_0.js,0.8428580330000841,all ok
+./prototype-pollution/node-dig-1.0.1/symbolic_test_2.js,0.7164671999998973,all ok
+./prototype-pollution/node-dig-1.0.1/symbolic_test_4.js,13.824355066000862,polluted
+./prototype-pollution/node-dig-1.0.1/symbolic_test_3.js,0.6816774459985027,all ok
+./prototype-pollution/node-dig-1.0.1/symbolic_test_5.js,0.6773933410004247,all ok
+./prototype-pollution/node-dig-1.0.1/symbolic_test_1.js,0.6676550960000895,all ok
+./prototype-pollution/node-dig-1.0.1/symbolic_test_0.js,0.6747452150011668,all ok
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_2.js,0.679718834002415,all ok
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_4.js,6.4109967100012,polluted
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_3.js,0.677969807999034,all ok
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_5.js,0.684496999001567,all ok
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_1.js,0.6835364910002681,all ok
+./prototype-pollution/set-object-value-0.0.5/symbolic_test_0.js,0.6965135589998681,all ok
+./prototype-pollution/mout-1.2.3/symbolic_test_2.js,1.4535017560010601,polluted
+./prototype-pollution/mout-1.2.3/symbolic_test_4.js,30.04535124800168,nothing
+./prototype-pollution/mout-1.2.3/symbolic_test_3.js,1.376780160000635,all ok
+./prototype-pollution/mout-1.2.3/symbolic_test_5.js,30.019552760000806,nothing
+./prototype-pollution/mout-1.2.3/symbolic_test_1.js,1.422757405001903,polluted
+./prototype-pollution/mout-1.2.3/symbolic_test_0.js,1.3306407410018437,all ok
+./prototype-pollution/mergify-1.0.2/symbolic_test_2.js,0.9496656420014915,all ok
+./prototype-pollution/mergify-1.0.2/symbolic_test_4.js,0.9551650799985509,all ok
+./prototype-pollution/mergify-1.0.2/symbolic_test_3.js,1.0351636000013968,polluted
+./prototype-pollution/mergify-1.0.2/symbolic_test_1.js,1.0302180329999828,polluted
+./prototype-pollution/mergify-1.0.2/symbolic_test_0.js,0.9358718740004406,polluted
+./prototype-pollution/set-value-3.0.0/symbolic_test_2.js,0.8646475079985976,all ok
+./prototype-pollution/set-value-3.0.0/symbolic_test_4.js,14.335324399999081,polluted
+./prototype-pollution/set-value-3.0.0/symbolic_test_3.js,0.866402071002085,all ok
+./prototype-pollution/set-value-3.0.0/symbolic_test_5.js,25.949788125999476,polluted
+./prototype-pollution/set-value-3.0.0/symbolic_test_1.js,0.8802734749988304,all ok
+./prototype-pollution/set-value-3.0.0/symbolic_test_0.js,0.8485666250016948,all ok
+./prototype-pollution/mithril-2.0.1/symbolic_test_2.js,0.6935914030000276,all ok
+./prototype-pollution/mithril-2.0.1/symbolic_test_4.js,0.818337052998686,nothing
+./prototype-pollution/mithril-2.0.1/symbolic_test_3.js,0.687341311997443,all ok
+./prototype-pollution/mithril-2.0.1/symbolic_test_5.js,0.6753326369980641,all ok
+./prototype-pollution/mithril-2.0.1/symbolic_test_1.js,0.7006386749999365,all ok
+./prototype-pollution/mithril-2.0.1/symbolic_test_0.js,0.7385608999975375,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_2.js,2.2033614460015087,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_4.js,2.1072975099996256,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_3.js,2.175156485001935,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_5.js,2.4103587319987128,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_1.js,2.1388940299984824,all ok
+./prototype-pollution/convict-6.0.0/symbolic_test_0.js,2.1217207619993133,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_2.js,0.736234094001702,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_4.js,0.7539060309973138,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_3.js,0.7819838409996009,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_5.js,0.835456892997172,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_1.js,0.8003408300028241,all ok
+./prototype-pollution/dot-prop-4.2.0/symbolic_test_0.js,0.8091839679982513,all ok
+./prototype-pollution/gateway-0.6.1/symbolic_test_2.js,0.9712326799999573,polluted
+./prototype-pollution/gateway-0.6.1/symbolic_test_4.js,0.9678545909991954,polluted
+./prototype-pollution/gateway-0.6.1/symbolic_test_3.js,0.9143939919995319,polluted
+./prototype-pollution/gateway-0.6.1/symbolic_test_1.js,0.9487534599975334,polluted
+./prototype-pollution/gateway-0.6.1/symbolic_test_0.js,0.9191270079973037,polluted
+./prototype-pollution/just-extend-3.0.0/symbolic_test_2.js,0.9330308649987273,all ok
+./prototype-pollution/just-extend-3.0.0/symbolic_test_4.js,30.028411973999027,nothing
+./prototype-pollution/just-extend-3.0.0/symbolic_test_3.js,0.9084531359985704,all ok
+./prototype-pollution/just-extend-3.0.0/symbolic_test_5.js,30.04557380100232,nothing
+./prototype-pollution/just-extend-3.0.0/symbolic_test_1.js,0.8696817740019469,all ok
+./prototype-pollution/just-extend-3.0.0/symbolic_test_0.js,1.1353918169988901,polluted
+./prototype-pollution/object-path-0.11.0/symbolic_test_2.js,0.7218557260021043,all ok
+./prototype-pollution/object-path-0.11.0/symbolic_test_4.js,0.7101426469998842,all ok
+./prototype-pollution/object-path-0.11.0/symbolic_test_3.js,0.7066709549981169,all ok
+./prototype-pollution/object-path-0.11.0/symbolic_test_5.js,0.7149247480010672,all ok
+./prototype-pollution/object-path-0.11.0/symbolic_test_1.js,0.7063906190014677,all ok
+./prototype-pollution/object-path-0.11.0/symbolic_test_0.js,0.7093786000004911,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_2.js,0.9357129390009504,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_4.js,0.9807034829973418,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_3.js,0.9727841319981962,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_5.js,0.9806768339985865,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_1.js,0.9979524220034364,all ok
+./prototype-pollution/subtext-7.0.2/symbolic_test_0.js,0.9678567379996821,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_2.js,0.6789615849993424,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_4.js,0.6916009480009961,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_3.js,0.6789520240017737,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_5.js,0.6922328340006061,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_1.js,0.691279945000133,all ok
+./prototype-pollution/doc-path-2.0.0/symbolic_test_0.js,0.6912950000005367,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_2.js,1.20270080499904,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_4.js,1.369004958000005,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_11.js,30.039069744998415,nothing
+./prototype-pollution/safetydance-2.0.1/symbolic_test_9.js,30.038374905998353,nothing
+./prototype-pollution/safetydance-2.0.1/symbolic_test_8.js,30.01447594599813,nothing
+./prototype-pollution/safetydance-2.0.1/symbolic_test_10.js,30.041031346998352,nothing
+./prototype-pollution/safetydance-2.0.1/symbolic_test_3.js,1.3128620890020102,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_6.js,6.156441051000002,polluted
+./prototype-pollution/safetydance-2.0.1/symbolic_test_5.js,1.3233359940022638,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_1.js,1.1851554729983036,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_0.js,1.169629078998696,all ok
+./prototype-pollution/safetydance-2.0.1/symbolic_test_7.js,28.26384819699888,all ok
+./prototype-pollution/x-assign-0.1.4/symbolic_test_2.js,0.8920525069988798,all ok
+./prototype-pollution/x-assign-0.1.4/symbolic_test_4.js,0.6219045059988275,all ok
+./prototype-pollution/x-assign-0.1.4/symbolic_test_1.js,0.9282251779986836,polluted
+./prototype-pollution/x-assign-0.1.4/symbolic_test_0.js,0.9188450469991949,polluted
+./prototype-pollution/object-extend-0.5.0/symbolic_test_2.js,0.8036056199998711,all ok
+./prototype-pollution/object-extend-0.5.0/symbolic_test_4.js,0.7962462750001578,all ok
+./prototype-pollution/object-extend-0.5.0/symbolic_test_3.js,0.8952110679965699,polluted
+./prototype-pollution/object-extend-0.5.0/symbolic_test_1.js,0.8990648500002862,polluted
+./prototype-pollution/object-extend-0.5.0/symbolic_test_0.js,0.8668322739977157,polluted
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_2.js,0.7150677289973828,all ok
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_4.js,0.7444156180026766,all ok
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_3.js,0.7151183290006884,all ok
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_5.js,0.7257570209985715,all ok
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_1.js,0.7173491069988813,all ok
+./prototype-pollution/getsetdeep-4.12.0/symbolic_test_0.js,0.7298780159981106,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_2.js,0.950277924999682,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_4.js,13.949999792999733,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_11.js,7.413984211998468,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_9.js,7.44211103699854,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_8.js,7.438323451002361,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_10.js,14.239317682000546,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_3.js,7.553016085999843,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_6.js,7.330579718000081,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_5.js,7.350148975998309,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_1.js,0.9436973899973964,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_0.js,0.9509646100013924,all ok
+./prototype-pollution/yargs-parser-6.0.0/symbolic_test_7.js,13.919106430999818,all ok
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_2.js,1.097899193999183,polluted
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_4.js,0.8467706749979698,all ok
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_3.js,1.093156483999337,all ok
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_5.js,0.823715024998819,all ok
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_1.js,1.0565478180033097,polluted
+./prototype-pollution/deep-extend-0.5.0/symbolic_test_0.js,0.7527245409983152,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_2.js,1.4475369660030992,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_4.js,30.014843885001028,nothing
+./prototype-pollution/objtools-3.0.0/symbolic_test_11.js,27.698979942000733,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_9.js,7.121879051999713,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_8.js,28.231972122001025,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_12.js,7.214566414000728,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_15.js,1.6628462019980361,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_10.js,27.118215059999784,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_3.js,6.772957664998103,polluted
+./prototype-pollution/objtools-3.0.0/symbolic_test_6.js,6.749735199002316,polluted
+./prototype-pollution/objtools-3.0.0/symbolic_test_5.js,28.978297436999128,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_1.js,1.4667123620019993,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_0.js,1.455968987000233,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_7.js,27.42498810899997,all ok
+./prototype-pollution/objtools-3.0.0/symbolic_test_13.js,30.014315704000182,nothing
+./prototype-pollution/objtools-3.0.0/symbolic_test_14.js,30.013888869001676,nothing
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_2.js,0.9910113799996907,polluted
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_4.js,30.046931673998188,nothing
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_3.js,1.0435762989982322,all ok
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_5.js,30.04415800100105,nothing
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_1.js,0.9623020969993377,polluted
+./prototype-pollution/simpl-schema-1.10.0/symbolic_test_0.js,1.0307854829989083,all ok
+./prototype-pollution/node-extend-1.0.0/symbolic_test_2.js,0.872716425001272,all ok
+./prototype-pollution/node-extend-1.0.0/symbolic_test_4.js,30.04395040899908,nothing
+./prototype-pollution/node-extend-1.0.0/symbolic_test_3.js,0.8646290939977916,all ok
+./prototype-pollution/node-extend-1.0.0/symbolic_test_5.js,30.04512282699943,nothing
+./prototype-pollution/node-extend-1.0.0/symbolic_test_1.js,0.8706721769995056,all ok
+./prototype-pollution/node-extend-1.0.0/symbolic_test_0.js,1.222455140999955,polluted
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_2.js,0.7374932700004138,all ok
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_4.js,6.976892835002218,polluted
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_3.js,1.1737854189996142,all ok
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_5.js,6.960615342002711,polluted
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_1.js,0.7343204680000781,all ok
+./prototype-pollution/deep-get-set-1.1.0/symbolic_test_0.js,0.7350538680002501,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_2.js,0.8328368399997998,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_4.js,0.8565226150021772,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_3.js,0.8349991799987038,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_5.js,0.8313024309973116,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_1.js,0.839943441998912,all ok
+./prototype-pollution/deepref-1.1.1/symbolic_test_0.js,0.9626131870027166,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_2.js,1.0933234369986167,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_4.js,1.3226378409999597,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_3.js,3.321309230999759,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_6.js,19.591102194000996,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_5.js,1.3376061979979568,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_1.js,1.0791278560027422,all ok
+./prototype-pollution/copy-props-2.0.4/symbolic_test_0.js,1.0733040270024503,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_2.js,1.2126980599969102,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_4.js,30.015163780997682,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_11.js,30.0136149309983,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_9.js,13.08883740300007,polluted
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_18.js,13.439199943000858,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_8.js,30.013267139001982,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_25.js,30.01383871100188,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_12.js,13.91158609500053,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_15.js,13.693121188000077,polluted
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_10.js,30.014898328998243,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_26.js,30.014211850997526,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_5.js,30.01562849399852,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_1.js,1.21347528899787,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_0.js,1.2104714329980197,all ok
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_7.js,30.013723274998483,nothing
+./prototype-pollution/nodee-utils-1.2.2/symbolic_test_27.js,1.39458514099897,all ok
+./prototype-pollution/dot-prop-2.0.0/symbolic_test_2.js,0.6718177619986818,all ok
+./prototype-pollution/dot-prop-2.0.0/symbolic_test_3.js,6.591487310997763,polluted
+./prototype-pollution/dot-prop-2.0.0/symbolic_test_1.js,0.6700362199990195,all ok
+./prototype-pollution/dot-prop-2.0.0/symbolic_test_0.js,0.6622794089998933,all ok
+./prototype-pollution/patchmerge-1.0.0/symbolic_test_2.js,0.7393566339997051,nothing
+./prototype-pollution/patchmerge-1.0.0/symbolic_test_4.js,0.7367992190011137,nothing
+./prototype-pollution/patchmerge-1.0.0/symbolic_test_3.js,0.7581938650000666,nothing
+./prototype-pollution/patchmerge-1.0.0/symbolic_test_1.js,0.7761490580014652,nothing
+./prototype-pollution/patchmerge-1.0.0/symbolic_test_0.js,0.7331328459986253,nothing
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_2.js,0.829050386997551,all ok
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_4.js,0.8600683389995538,all ok
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_3.js,0.8360986960033188,all ok
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_5.js,0.8459850059989549,all ok
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_1.js,0.8289177589977044,all ok
+./prototype-pollution/jsgui-lang-essentials-0.4.3/symbolic_test_0.js,0.8449225389995263,all ok
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_2.js,0.8194809500018891,all ok
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_4.js,30.045851816001232,nothing
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_3.js,30.03837988000305,nothing
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_5.js,30.044333342000755,nothing
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_1.js,0.8221146520008915,all ok
+./prototype-pollution/undefsafe-2.0.2/symbolic_test_0.js,0.8280794579986832,all ok
+./prototype-pollution/rfc6902-4.0.2/symbolic_test_2.js,1.3330104859996936,all ok
+./prototype-pollution/rfc6902-4.0.2/symbolic_test_4.js,2.3502454650006257,all ok
+./prototype-pollution/rfc6902-4.0.2/symbolic_test_3.js,2.332249421000597,all ok
+./prototype-pollution/rfc6902-4.0.2/symbolic_test_1.js,1.3335116380039835,all ok
+./prototype-pollution/rfc6902-4.0.2/symbolic_test_0.js,1.3269373869989067,all ok
+./prototype-pollution/mergewith-4.6.0/symbolic_test_2.js,9.933355606997793,all ok
+./prototype-pollution/mergewith-4.6.0/symbolic_test_4.js,30.02062074100104,nothing
+./prototype-pollution/mergewith-4.6.0/symbolic_test_3.js,10.008414882002398,all ok
+./prototype-pollution/mergewith-4.6.0/symbolic_test_5.js,30.019992068999272,nothing
+./prototype-pollution/mergewith-4.6.0/symbolic_test_1.js,9.987972393995733,all ok
+./prototype-pollution/mergewith-4.6.0/symbolic_test_0.js,10.184631643998728,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_2.js,0.9427553209970938,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_4.js,0.9688913759964635,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_3.js,0.9437922069992055,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_5.js,0.952014421003696,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_1.js,0.9509046620005392,all ok
+./prototype-pollution/changeset-0.1.0/symbolic_test_0.js,0.940460741003335,all ok
+./prototype-pollution/sds-4.4.0/symbolic_test_2.js,0.7157518020030693,all ok
+./prototype-pollution/sds-4.4.0/symbolic_test_4.js,0.7806751309981337,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_11.js,0.8035102319990983,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_9.js,0.7781764569954248,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_8.js,0.8009492159981164,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_10.js,0.7869081650060252,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_3.js,0.7770322610012954,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_6.js,0.7823701480010641,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_5.js,0.7921950810050475,nothing
+./prototype-pollution/sds-4.4.0/symbolic_test_1.js,0.7194080329936696,all ok
+./prototype-pollution/sds-4.4.0/symbolic_test_0.js,0.7161325250053778,all ok
+./prototype-pollution/sds-4.4.0/symbolic_test_7.js,0.7833697800015216,nothing
+./prototype-pollution/extend-3.0.1/symbolic_test_2.js,0.8828511499959859,all ok
+./prototype-pollution/extend-3.0.1/symbolic_test_4.js,30.046540222996555,nothing
+./prototype-pollution/extend-3.0.1/symbolic_test_3.js,0.8857478280042415,all ok
+./prototype-pollution/extend-3.0.1/symbolic_test_5.js,30.045118529997126,nothing
+./prototype-pollution/extend-3.0.1/symbolic_test_1.js,0.8897775369987357,all ok
+./prototype-pollution/extend-3.0.1/symbolic_test_0.js,1.336962023000524,polluted
+./prototype-pollution/plain-object-merge-1.0.1/symbolic_test_2.js,0.7484137989958981,all ok
+./prototype-pollution/plain-object-merge-1.0.1/symbolic_test_4.js,30.04700442700414,nothing
+./prototype-pollution/plain-object-merge-1.0.1/symbolic_test_3.js,30.046505006997904,nothing
+./prototype-pollution/plain-object-merge-1.0.1/symbolic_test_1.js,0.7472908439958701,all ok
+./prototype-pollution/plain-object-merge-1.0.1/symbolic_test_0.js,0.7511059559983551,all ok
+./prototype-pollution/set-in-2.0.0/symbolic_test_2.js,30.073539541001082,nothing
+./prototype-pollution/set-in-2.0.0/symbolic_test_4.js,6.122897294997529,all ok
+./prototype-pollution/set-in-2.0.0/symbolic_test_3.js,5.758465997998428,all ok
+./prototype-pollution/set-in-2.0.0/symbolic_test_6.js,30.019009494004422,nothing
+./prototype-pollution/set-in-2.0.0/symbolic_test_5.js,30.019815474995994,nothing
+./prototype-pollution/set-in-2.0.0/symbolic_test_1.js,30.092299336996803,nothing
+./prototype-pollution/set-in-2.0.0/symbolic_test_0.js,30.09042427699751,nothing
+./prototype-pollution/extend-merge-1.0.5/symbolic_test_2.js,0.7303908459944068,all ok
+./prototype-pollution/extend-merge-1.0.5/symbolic_test_4.js,0.7408950809985981,all ok
+./prototype-pollution/extend-merge-1.0.5/symbolic_test_1.js,0.729887786998006,all ok
+./prototype-pollution/extend-merge-1.0.5/symbolic_test_0.js,0.7323682639980689,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_2.js,0.9308677559965872,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_4.js,6.464082808000967,polluted
+./prototype-pollution/keyget-2.2.0/symbolic_test_8.js,2.460567145004461,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_3.js,1.5020809859997826,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_1.js,0.9272969879966695,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_0.js,0.9270603420009138,all ok
+./prototype-pollution/keyget-2.2.0/symbolic_test_7.js,1.117551128998457,all ok
+./prototype-pollution/dotty-0.0.1/symbolic_test_2.js,0.7117189499986125,all ok
+./prototype-pollution/dotty-0.0.1/symbolic_test_4.js,2.0208662079967326,polluted
+./prototype-pollution/dotty-0.0.1/symbolic_test_3.js,0.7923416069970699,all ok
+./prototype-pollution/dotty-0.0.1/symbolic_test_5.js,2.023424975996022,polluted
+./prototype-pollution/dotty-0.0.1/symbolic_test_1.js,0.7126970140016056,all ok
+./prototype-pollution/dotty-0.0.1/symbolic_test_0.js,0.722875084997213,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_2.js,0.7367943979988922,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_4.js,0.7521807099983562,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_3.js,0.7332546160032507,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_5.js,0.7376130530028604,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_1.js,0.728422035004769,all ok
+./prototype-pollution/klona-1.1.0/symbolic_test_0.js,0.7183119370019995,all ok
+./prototype-pollution/deep-override-1.0.0/symbolic_test_2.js,0.905119545001071,nothing
+./prototype-pollution/deep-override-1.0.0/symbolic_test_4.js,0.9253429700038396,all ok
+./prototype-pollution/deep-override-1.0.0/symbolic_test_3.js,0.9013246329996036,nothing
+./prototype-pollution/deep-override-1.0.0/symbolic_test_5.js,0.8204038519979804,all ok
+./prototype-pollution/deep-override-1.0.0/symbolic_test_1.js,0.8885965689987643,nothing
+./prototype-pollution/deep-override-1.0.0/symbolic_test_0.js,0.7398744410020299,all ok
+./prototype-pollution/defaults-deep-0.2.3/symbolic_test_2.js,1.6516036319953855,polluted
+./prototype-pollution/defaults-deep-0.2.3/symbolic_test_3.js,30.043647550999594,nothing
+./prototype-pollution/defaults-deep-0.2.3/symbolic_test_1.js,1.3691292510047788,all ok
+./prototype-pollution/defaults-deep-0.2.3/symbolic_test_0.js,1.3163381300037145,polluted
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_2.js,0.998512803002086,polluted
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_4.js,0.8102136110028368,all ok
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_3.js,0.9168556430013268,all ok
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_5.js,0.7884877649994451,all ok
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_1.js,0.9736158839950804,polluted
+./prototype-pollution/mixin-deep-1.3.0/symbolic_test_0.js,1.0279350009950576,all ok
+./prototype-pollution/linux-cmdline-1.0.0/symbolic_test_2.js,0.6601949870018871,all ok
+./prototype-pollution/linux-cmdline-1.0.0/symbolic_test_3.js,30.04648157399788,nothing
+./prototype-pollution/linux-cmdline-1.0.0/symbolic_test_1.js,0.6620128649956314,all ok
+./prototype-pollution/linux-cmdline-1.0.0/symbolic_test_0.js,0.6616912050012616,all ok
+./prototype-pollution/worksmith-1.0.0/symbolic_test_2.js,1.0441748250013916,all ok
+./prototype-pollution/worksmith-1.0.0/symbolic_test_3.js,1.0455888090000371,all ok
+./prototype-pollution/worksmith-1.0.0/symbolic_test_1.js,1.0364570439996896,all ok
+./prototype-pollution/worksmith-1.0.0/symbolic_test_0.js,1.0406124420042033,all ok
+./prototype-pollution/json-pointer-0.6.1/symbolic_test_2.js,0.9124252030014759,all ok
+./prototype-pollution/json-pointer-0.6.1/symbolic_test_4.js,30.041373309002665,nothing
+./prototype-pollution/json-pointer-0.6.1/symbolic_test_3.js,1.3479539469990414,all ok
+./prototype-pollution/json-pointer-0.6.1/symbolic_test_1.js,0.9128988129959907,all ok
+./prototype-pollution/json-pointer-0.6.1/symbolic_test_0.js,0.9092442729961476,all ok
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_2.js,1.6210186989992508,all ok
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_4.js,30.043827274006617,nothing
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_3.js,1.6032532320023165,all ok
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_5.js,30.046647576004034,nothing
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_1.js,1.630719783999666,all ok
+./prototype-pollution/smart-extend-1.7.4/symbolic_test_0.js,1.994309585999872,all ok
+./prototype-pollution/utils-extend-1.0.8/symbolic_test_2.js,1.5226277509937063,all ok
+./prototype-pollution/utils-extend-1.0.8/symbolic_test_4.js,2.0646880109998165,all ok
+./prototype-pollution/utils-extend-1.0.8/symbolic_test_3.js,1.353135386001668,polluted
+./prototype-pollution/utils-extend-1.0.8/symbolic_test_1.js,1.5222753310008557,all ok
+./prototype-pollution/utils-extend-1.0.8/symbolic_test_0.js,1.5116926739938208,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_2.js,0.8494523240005947,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_4.js,0.8770718460000353,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_3.js,0.850029548004386,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_5.js,0.8736120499961544,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_1.js,0.8445345430009183,all ok
+./prototype-pollution/aurelia-path-1.1.7/symbolic_test_0.js,0.8651344590034569,all ok
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_2.js,0.8318694619956659,all ok
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_4.js,1.0581226529975538,nothing
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_3.js,0.8964130849999492,nothing
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_6.js,1.0269173399938154,nothing
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_5.js,0.9302523270016536,nothing
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_1.js,0.8336219660050119,all ok
+./prototype-pollution/iniparserjs-1.0.4/symbolic_test_0.js,0.8366991410002811,all ok
+./prototype-pollution/decal-2.1.3/symbolic_test_2.js,1.098955235000176,polluted
+./prototype-pollution/decal-2.1.3/symbolic_test_4.js,30.046071579003183,nothing
+./prototype-pollution/decal-2.1.3/symbolic_test_3.js,1.075757689999591,all ok
+./prototype-pollution/decal-2.1.3/symbolic_test_5.js,30.04558388499572,nothing
+./prototype-pollution/decal-2.1.3/symbolic_test_1.js,1.0768489559995942,polluted
+./prototype-pollution/decal-2.1.3/symbolic_test_0.js,1.15407149100065,polluted
+./prototype-pollution/predefine-0.1.2/symbolic_test_2.js,0.9872628490047646,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_4.js,1.05749790599657,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_11.js,1.0562345630023628,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_9.js,1.0457920560002094,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_8.js,1.082625374001509,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_12.js,1.0657326369982911,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_15.js,1.084290514998429,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_10.js,1.0421298319997732,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_3.js,1.0641207359949476,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_6.js,1.069332653998572,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_5.js,1.0671072059994913,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_17.js,1.091751321000629,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_1.js,0.9858087870015879,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_0.js,0.9917474089961615,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_7.js,1.063594325001759,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_13.js,1.0613589349959511,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_16.js,1.1007274690055056,all ok
+./prototype-pollution/predefine-0.1.2/symbolic_test_14.js,1.0678423889985424,all ok
+./prototype-pollution/lutils-merge-0.2.6/symbolic_test_2.js,1.5332362380067934,all ok
+./prototype-pollution/lutils-merge-0.2.6/symbolic_test_4.js,0.9889072649966693,nothing
+./prototype-pollution/lutils-merge-0.2.6/symbolic_test_3.js,0.9884022019978147,nothing
+./prototype-pollution/lutils-merge-0.2.6/symbolic_test_1.js,1.7374167080051848,polluted
+./prototype-pollution/lutils-merge-0.2.6/symbolic_test_0.js,1.7214677969968761,polluted
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_2.js,1.3621417419999489,all ok
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_4.js,1.3928392929956317,all ok
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_3.js,1.3664792900017346,all ok
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_5.js,1.3723996289991192,all ok
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_1.js,1.3540908919967478,all ok
+./prototype-pollution/rdf-graph-array-0.3.0/symbolic_test_0.js,1.4101811650034506,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_2.js,1.2184639089973643,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_4.js,0.8920386919999146,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_8.js,0.8340908760001184,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_3.js,0.9122086190036498,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_6.js,0.7979613810020965,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_5.js,0.8828496999994968,all ok
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_1.js,1.09039277699776,polluted
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_0.js,1.060860504003358,polluted
+./prototype-pollution/merge-recursive-0.0.3/symbolic_test_7.js,0.8193767869961448,all ok
+./prototype-pollution/assign-deep-0.4.8/symbolic_test_2.js,2.2630222369989497,all ok
+./prototype-pollution/assign-deep-0.4.8/symbolic_test_4.js,2.263101486998494,all ok
+./prototype-pollution/assign-deep-0.4.8/symbolic_test_3.js,1.9582391340009053,polluted
+./prototype-pollution/assign-deep-0.4.8/symbolic_test_1.js,1.9410145960064256,polluted
+./prototype-pollution/assign-deep-0.4.8/symbolic_test_0.js,1.9165339399987715,polluted
+./prototype-pollution/set-1.0.0/symbolic_test_2.js,0.7290467559942044,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_4.js,2.7707194989998243,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_11.js,2.644144079000398,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_9.js,1.1132379689952359,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_8.js,27.74848296699929,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_12.js,7.081335691997083,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_10.js,2.5821148620016174,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_3.js,1.1260881150010391,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_6.js,6.851460372003203,polluted
+./prototype-pollution/set-1.0.0/symbolic_test_5.js,2.9321848550025607,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_1.js,0.726598378001654,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_0.js,0.725777116997051,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_7.js,26.89058359699993,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_13.js,26.589837065999745,all ok
+./prototype-pollution/set-1.0.0/symbolic_test_14.js,27.48458207499789,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_2.js,1.0346364349970827,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_4.js,1.0727124160039239,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_3.js,1.0493672029988375,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_5.js,1.048674461999326,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_1.js,1.0361227100001997,all ok
+./prototype-pollution/fast-json-patch-2.0.4/symbolic_test_0.js,1.0544461120007327,all ok
