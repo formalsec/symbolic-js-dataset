@@ -330,7 +330,10 @@ var obj = [ esl_symbolic.string("obj0"), esl_symbolic.string("obj1") ];
 var pattern = esl_symbolic.any("pattern");
 var ret_new_module_exports = new module.exports(obj, pattern);
 var target = {  };
-var additional = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var additional = { [prop_1] : { [prop_2] : value } };
 ret_new_module_exports.merge(target, additional);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
 if (({}).toString == "polluted") { throw Error("I pollute."); }

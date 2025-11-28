@@ -50,7 +50,10 @@ module.exports = function extend(a, b) {
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var a = {  };
-var b = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var b = { [prop_1] : { [prop_2] : value } };
 module.exports(a, b);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
 if (({}).toString == "polluted") { throw Error("I pollute."); }

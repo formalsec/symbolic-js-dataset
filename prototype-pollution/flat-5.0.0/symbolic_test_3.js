@@ -153,7 +153,10 @@ function unflatten (target, opts) {
 
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
-var target = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var target = { [prop_1] : { [prop_2] : value } };
 var opts =
   { delimiter: esl_symbolic.string("delimiter")
   , overwrite: esl_symbolic.any("overwrite")

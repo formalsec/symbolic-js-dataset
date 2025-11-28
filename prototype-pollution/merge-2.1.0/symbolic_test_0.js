@@ -83,7 +83,8 @@ function _merge(isClone, isRecursive, items) {
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var dst_obj = {  };
-var src_obj = esl_symbolic.polluted_object(1);
+// Concrete test 
+var src_obj = { ["__proto__"] : { "polluted" : "yes" } };
 module.exports.recursive(dst_obj, src_obj);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
 if (({}).toString == "polluted") { throw Error("I pollute."); }

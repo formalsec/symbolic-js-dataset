@@ -30,7 +30,10 @@ module.exports.merge = merge;
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var a = {  };
-var b = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var b = { [prop_1] : { [prop_2] : value } };
 var k = esl_symbolic.number("k");
 module.exports.merge(a, b, k);
 if (({}).polluted == "yes") { throw Error("I pollute."); }

@@ -45,7 +45,10 @@ module.exports = merge
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var x = {  };
-var y = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var y = { [prop_1] : { [prop_2] : value } };
 module.exports(x, y);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
 if (({}).toString == "polluted") { throw Error("I pollute."); }

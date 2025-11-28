@@ -912,7 +912,10 @@ var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var output = {  };
 var key = esl_symbolic.string("key");
-var value = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var value = { [prop_1] : { [prop_2] : value } };
 var recurse =
   [ esl_symbolic.string("recurse0"), esl_symbolic.string("recurse1") ];
 module.exports.writeConfig(output, key, value, recurse);

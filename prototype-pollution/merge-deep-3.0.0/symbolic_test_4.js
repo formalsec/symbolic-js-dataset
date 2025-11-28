@@ -97,7 +97,10 @@ var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
 var orig = [ esl_symbolic.string("orig0"), esl_symbolic.string("orig1") ];
 var objects = esl_symbolic.any("objects");
-var obj = esl_symbolic.polluted_object(2);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var value = esl_symbolic.string("value");
+var obj = { [prop_1] : { [prop_2] : value } };
 module.exports(orig, objects, obj);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
 if (({}).toString == "polluted") { throw Error("I pollute."); }

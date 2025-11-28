@@ -958,8 +958,16 @@ exports.block = function () {
 
 var esl_symbolic = require("esl_symbolic");
 // Vuln: prototype-pollution
-var source = esl_symbolic.polluted_object(3);
-var transform = esl_symbolic.polluted_object(3);
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var prop_3 = esl_symbolic.string("prop_3");
+var value = esl_symbolic.string("value");
+var source = { [prop_1] : { [prop_2] :  { [prop_3] : value } } };
+var prop_1 = esl_symbolic.string("prop_1");
+var prop_2 = esl_symbolic.string("prop_2");
+var prop_3 = esl_symbolic.string("prop_3");
+var value = esl_symbolic.string("value");
+var transform = { [prop_1] : { [prop_2] :  { [prop_3] : value } } };
 var options = { separator: esl_symbolic.any("separator") };
 module.exports.transform(source, transform, options);
 if (({}).polluted == "yes") { throw Error("I pollute."); }
